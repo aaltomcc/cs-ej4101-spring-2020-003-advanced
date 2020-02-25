@@ -1,0 +1,85 @@
+baseURL = "http://127.0.0.1" #https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/
+languageCode = "en-us"
+title = "Thaha" #cs-ej4101-spring-2020-003-advanced
+theme = "hyde-hyde"
+
+
+## Hugo Built-in Features
+enableRobotsTXT = true
+enableEmoji = true
+
+
+summarylength = 30
+paginate = 7
+
+## Site Settings
+[params]
+    author = "Thaha"
+    description = "Technology, thoughts, opinions, rants"
+    authorimage = "img/avatar.jpg"
+
+    # https://golang.org/pkg/time/#example_Time_Format
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "Thaha"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    relatedPosts = true
+    postNavigation = true
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    vn = "/:year/:month/:slug/"
+
+## Site Meta Settings
+[params.meta]
+    description = "Thaha's blog :: technology, thoughts, opinions, and rants"
+    keywords = "blog,python,Fog, Computing, HPC, SpMV"
+
+## Social Accounts
+[params.social]
+    github = "stormvirux"
+    linkedin = "mthaha"
+    twitter = "storm_virux"
+    stackoverflow = "447199"
+    email = "thaha.mohammed@aalto.fi"
+
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+
+# https://gohugo.io/content-management/related
+[related]
+    # Only include matches with rank >= threshold. This is a normalized rank
+    # between 0 and 100.
+    threshold = 80
+    # To get stable "See also" sections we, by default, exclude newer related
+    # pages.
+    includeNewer = false
+    # Will lower case keywords in both queries and in the indexes.
+    toLower = false
+[[related.indices]]
+    name = "keywords"
+    weight = 150
+[[related.indices]]
+    name  = "author"
+    toLower = true
+    weight = 30
+[[related.indices]]
+    name  = "tags"
+    weight = 100
+[[related.indices]]
+    name  = "date"
+    weight = 10
+    pattern = "2006"
