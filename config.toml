@@ -16,7 +16,7 @@ paginate = 7
 [params]
     author = "Thaha"
     description = "Technology, thoughts, opinions, rants"
-    authorimage = "img/avatar.jpg"
+    authorimage = "/img/avatar.jpg"
 
     # https://golang.org/pkg/time/#example_Time_Format
     dateformat = "Jan 2, 2006"
