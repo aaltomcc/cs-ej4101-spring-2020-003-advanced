@@ -1,4 +1,4 @@
-baseURL = "http://127.0.0.1" #https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/
+baseURL = "https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced"
 languageCode = "en-us"
 title = "Thaha" #cs-ej4101-spring-2020-003-advanced
 theme = "hyde-hyde"
