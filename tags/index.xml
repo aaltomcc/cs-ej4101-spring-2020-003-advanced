@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Thaha</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/</link>
+    <description>Recent content in Tags on Thaha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aalto</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/aalto/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/aalto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>course</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/course/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cs</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/cs/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile cloud computing</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/mobile-cloud-computing/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/tags/mobile-cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

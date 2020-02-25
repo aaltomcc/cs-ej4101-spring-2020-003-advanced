@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MCC on Thaha</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/categories/mcc/</link>
+    <description>Recent content in MCC on Thaha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/categories/mcc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I took this course 003</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/2020/02/why-i-took-this-course-003/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/2020/02/why-i-took-this-course-003/</guid>
+      <description>My motivations for joining this course is listed below (👇):
+ I love Mobile Cloud Computing and DevOps (💙).  I always wanted to get to know more about this but never got an oppurtunity.</description>
+    </item>
+    
+    <item>
+      <title>I learned 003</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/2020/02/i-learned-003/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-003-advanced/2020/02/i-learned-003/</guid>
+      <description>In this course I got the oppurtunity to learn about a large number of stuff regarding DevOps. I realized that DevOps is not just about tools and technologies rather it also inculdes the work/company culture associated with it.</description>
+    </item>
+    
+  </channel>
+</rss>
